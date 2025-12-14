@@ -1,7 +1,5 @@
 # 🤖 AutoML Streamlit Uygulaması: Veri Bilimini Demokratikleştiren Araç
 
-![AutoML Uygulaması Görseli](https://i.imgur.com/example-of-automl-gui.png)
-
 ### 📌 Giriş ve Proje Hakkında
 
 Geleneksel makine öğrenmesi (ML) süreçleri; veri ön işleme, model seçimi, hiperparametre optimizasyonu ve sonuçların değerlendirilmesi gibi karmaşık ve zaman alıcı adımlar gerektirir. Bu durum, ML yeteneklerinin sadece uzman veri bilimcilerle sınırlı kalmasına yol açmaktadır.
@@ -66,3 +64,4 @@ streamlit run main.py
 2. CSV seçeneği için dosyanızı yükleyin. Görüntü klasörü için ise klasörün tam yolunu girin.
 
 3. Uygulama, veriyi önizler, görevi tespit eder ve otomatik ML sürecini başlatır.
+
