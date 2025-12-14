@@ -1,8 +1,6 @@
 
 # 🤖 AutoML Streamlit Uygulaması
 
-![AutoML Uygulaması Görseli](https://i.imgur.com/example-of-automl-gui.png)
-
 ### 📌 Giriş ve Proje Hakkında
 
 Geleneksel makine öğrenmesi (ML) süreçleri; veri ön işleme, model seçimi, hiperparametre optimizasyonu ve sonuçların değerlendirilmesi gibi karmaşık ve zaman alıcı adımlar gerektirir. Bu durum, ML yeteneklerinin sadece uzman veri bilimcilerle sınırlı kalmasına yol açmaktadır.
